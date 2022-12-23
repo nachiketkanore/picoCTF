@@ -1,0 +1,1 @@
+alias toclip='xclip -selection clipboard'
