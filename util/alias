@@ -1,1 +1,2 @@
 alias toclip='xclip -selection clipboard'
+alias py='python3'
